@@ -1,0 +1,2040 @@
+Project,Sample.id,lat,lon,LandcoverClass,Continent,Type
+SRA,ERR1051325,34.98167,-97.52056,Agricultural land,North America,Public
+SRA,ERR436052,-34.233,138.309,Agricultural land,Australia,Public
+SRA,ERR436053,-34.233,138.309,Agricultural land,Australia,Public
+SRA,ERR436054,-34.233,138.309,Agricultural land,Australia,Public
+SRA,ERR436055,-34.255,138.318,Agricultural land,Australia,Public
+SRA,ERR436057,-34.255,138.318,Agricultural land,Australia,Public
+SRA,ERR436058,-34.255,138.318,Agricultural land,Australia,Public
+SRA,SRR1379730,20.02,-110.35,Wetland,North America,Public
+SRA,SRR1783792,24.25,93.37,Agricultural land,Asia,Public
+SRA,SRR1924237,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926113,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926121,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926122,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926147,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926159,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926200,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1926201,-19.733,147.178,Agricultural land,Australia,Public
+SRA,SRR1955040,10,76.3,Agricultural land,Asia,Public
+SRA,SRR2029815,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2029816,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2029817,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2029827,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2029828,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2029829,50.14667,12.45083,Wetland,Europe,Public
+SRA,SRR2093878,24.5283427,110.9169302,Agricultural land,Asia,Public
+SRA,SRR2140746,39.0931,-96.5586,Grassland,North America,Public
+SRA,SRR2952554,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR2954705,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR3439671,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR3439678,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR3452784,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR3452787,37.2930286,103.7241968,Bare Land,Asia,Public
+SRA,SRR350471,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350474,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350500,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350513,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350639,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350640,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350641,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR350692,42.4539179,-92.404596,Grassland,North America,Public
+SRA,SRR350919,41.6380873,-93.7753044,Agricultural land,North America,Public
+SRA,SRR350921,41.6380873,-93.7753044,Agricultural land,North America,Public
+SRA,SRR350970,37.9249062,-103.364487,Agricultural land,North America,Public
+SRA,SRR351473,41.6380873,-93.7753044,Agricultural land,North America,Public
+SRA,SRR351474,41.6380873,-93.7753044,Agricultural land,North America,Public
+SRA,SRR352287,41.307286,-93.3785109,Grassland,North America,Public
+SRA,SRR3592108,-25.025508,152.379908,Agricultural land,Australia,Public
+SRA,SRR3601981,-25.025508,152.379908,Agricultural land,Australia,Public
+SRA,SRR3601982,-25.025508,152.379908,Agricultural land,Australia,Public
+SRA,SRR3601984,-25.025508,152.379908,Agricultural land,Australia,Public
+SRA,SRR3659419,49,-57.75,Forest,North America,Public
+SRA,SRR3747750,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR3747798,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR3747811,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR3747812,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR3747847,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR3954470,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR3954471,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR3954472,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR3954473,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR3954474,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR3969602,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3969907,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3970034,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3971189,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3972132,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3972141,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3972149,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3972293,18,-65,Forest,North America,Public
+SRA,SRR3973802,18,-65,Forest,North America,Public
+SRA,SRR3974375,18,-65,Forest,North America,Public
+SRA,SRR3974376,18,-65,Forest,North America,Public
+SRA,SRR3974377,18,-65,Forest,North America,Public
+SRA,SRR3974390,18,-65,Forest,North America,Public
+SRA,SRR3975574,18,-65,Forest,North America,Public
+SRA,SRR3975575,18,-65,Forest,North America,Public
+SRA,SRR3975576,18,-65,Forest,North America,Public
+SRA,SRR3975577,18,-65,Forest,North America,Public
+SRA,SRR3977090,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977097,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977098,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977124,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977125,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977135,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977136,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977137,18,-65,Forest,North America,Public
+SRA,SRR3977138,18,-65,Forest,North America,Public
+SRA,SRR3977139,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977438,38.88,-120.64,Forest,North America,Public
+SRA,SRR3977439,38.88,-120.64,Forest,North America,Public
+SRA,SRR3978320,38.88,-120.64,Forest,North America,Public
+SRA,SRR3978321,38.88,-120.64,Forest,North America,Public
+SRA,SRR3978361,38.88,-120.64,Forest,North America,Public
+SRA,SRR3978390,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979409,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979410,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979411,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979412,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979413,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979414,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979453,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979454,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979490,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979491,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979977,38.88,-120.64,Forest,North America,Public
+SRA,SRR3979978,38.88,-120.64,Forest,North America,Public
+SRA,SRR3981081,38.88,-120.64,Forest,North America,Public
+SRA,SRR3981082,38.88,-120.64,Forest,North America,Public
+SRA,SRR3981189,38.88,-120.64,Forest,North America,Public
+SRA,SRR3981190,38.88,-120.64,Forest,North America,Public
+SRA,SRR3982067,38.88,-120.64,Forest,North America,Public
+SRA,SRR3982068,38.88,-120.64,Forest,North America,Public
+SRA,SRR3982074,38.88,-120.64,Forest,North America,Public
+SRA,SRR3982075,38.88,-120.64,Forest,North America,Public
+SRA,SRR3982751,39.23550963,-121.2836963,Forest,North America,Public
+SRA,SRR3984885,46.42,-83.37,Forest,North America,Public
+SRA,SRR3984893,46.42,-83.37,Forest,North America,Public
+SRA,SRR3984957,46.42,-83.37,Forest,North America,Public
+SRA,SRR3984960,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3984961,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3984962,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3984963,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985186,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985188,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985190,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985369,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985370,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985376,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985382,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985383,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985384,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985385,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985388,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985389,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985390,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985391,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985394,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985395,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985396,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985397,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985418,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985419,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985420,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985421,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985424,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985523,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985524,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985525,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985526,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985527,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985624,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3985625,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR3988231,42.3948,-85.3738,Agricultural land,North America,Public
+SRA,SRR3988262,42.3948,-85.3738,Agricultural land,North America,Public
+SRA,SRR3988263,42.3948,-85.3738,Agricultural land,North America,Public
+SRA,SRR3988264,42.3948,-85.3738,Agricultural land,North America,Public
+SRA,SRR3988265,42.3948,-85.3738,Agricultural land,North America,Public
+SRA,SRR3989121,71.29055,-156.788643,Tundra,North America,Public
+SRA,SRR3989238,71.290565,-156.788622,Tundra,North America,Public
+SRA,SRR3989239,71.28381,-156.5985,Tundra,North America,Public
+SRA,SRR3989254,71.270939,-156.810374,Tundra,North America,Public
+SRA,SRR3989257,71.270939,-156.810374,Tundra,North America,Public
+SRA,SRR3989258,71.290884,-156.788063,Tundra,North America,Public
+SRA,SRR3989293,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989295,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989296,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989297,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989304,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989307,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989309,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3989314,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3989338,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3989339,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3989344,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3989430,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3989449,39.718176,-123.652732,Grassland,North America,Public
+SRA,SRR3989460,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989461,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989470,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989471,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989474,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989477,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989482,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989487,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989489,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989490,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989492,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989493,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989495,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989500,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989501,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989508,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989509,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989516,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989550,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989555,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989556,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989561,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989573,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989576,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR3989606,43.43,-89.41,Agricultural land,North America,Public
+SRA,SRR3989686,43.42,89.33,Grassland,Asia,Public
+SRA,SRR3989699,43.42,89.32,Grassland,Asia,Public
+SRA,SRR3989700,43.42,-89.33,Agricultural land,North America,Public
+SRA,SRR3989702,43.42,-89.32,Forest,North America,Public
+SRA,SRR3989705,43.42,89.32,Grassland,Asia,Public
+SRA,SRR3989710,43.42,-89.32,Forest,North America,Public
+SRA,SRR3989711,43.42,89.32,Grassland,Asia,Public
+SRA,SRR3990167,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3990168,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3990169,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3990170,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3990171,39.53,-107.78,Agricultural land,North America,Public
+SRA,SRR3990172,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3990173,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR3990174,39.534762,-107.782602,Agricultural land,North America,Public
+SRA,SRR400291,43.9077478,-89.4564398,Agricultural land,North America,Public
+SRA,SRR4021130,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022091,42.532967,-72.209488,Forest,North America,Public
+SRA,SRR4022141,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022146,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022147,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022148,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022149,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022155,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4022160,42.550409,-72.180244,Forest,North America,Public
+SRA,SRR4026198,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026199,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026200,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026201,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026202,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026203,43.303611,-89.332778,Agricultural land,North America,Public
+SRA,SRR4026205,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4026206,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4026207,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4026208,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4026209,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4027028,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027029,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027030,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027031,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027034,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027035,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027036,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027037,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027038,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027039,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027040,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027041,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027042,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027043,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027044,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027045,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027046,43.312222,-89.370833,Agricultural land,North America,Public
+SRA,SRR4027089,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027090,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027091,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027092,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027093,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027094,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027095,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027098,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027099,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027100,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027101,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027102,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027103,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027104,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027105,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027107,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027108,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027110,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027111,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027112,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027113,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027114,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027115,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027116,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027121,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027122,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027123,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027124,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027125,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027126,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027127,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027129,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027130,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027131,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027132,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027133,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027134,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027567,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027568,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027569,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027570,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027571,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027572,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027576,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027577,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027578,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027579,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027580,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027581,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027582,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027610,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027666,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027667,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027668,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027669,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027670,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027671,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027672,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027795,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027796,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027797,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027798,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027799,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027800,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027801,42.794771,-84.393804,Wetland,North America,Public
+SRA,SRR4027826,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027827,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027828,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027829,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027830,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027831,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027832,42.406189,-85.40016,Forest,North America,Public
+SRA,SRR4027934,64.7,-148.3,Tundra,North America,Public
+SRA,SRR4027936,64.7,-148.3,Tundra,North America,Public
+SRA,SRR4028118,38.714972,-109.692944,Shrubland,North America,Public
+SRA,SRR4028119,38.714972,-109.692944,Shrubland,North America,Public
+SRA,SRR4030041,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030042,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030043,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030066,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030068,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030077,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030078,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030079,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030080,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030081,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030082,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030083,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030084,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030085,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030086,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030087,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030088,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030091,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030096,38.88,-120.64,Forest,North America,Public
+SRA,SRR4030097,38.88,-120.64,Forest,North America,Public
+SRA,SRR4046300,32.03,118.46,Agricultural land,Asia,Public
+SRA,SRR4051794,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR4051795,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR4051812,38.99297339,-123.0674491,Grassland,North America,Public
+SRA,SRR4241755,43.44,-92.38,Grassland,North America,Public
+SRA,SRR4289280,36.05,108.31,Forest,Asia,Public
+SRA,SRR4289282,36.05,108.31,Forest,Asia,Public
+SRA,SRR4289283,36.05,108.31,Forest,Asia,Public
+SRA,SRR4289284,36.04,108.32,Forest,Asia,Public
+SRA,SRR4289285,36.04,108.32,Forest,Asia,Public
+SRA,SRR4289286,36.04,108.32,Forest,Asia,Public
+SRA,SRR4289287,36.02,108.31,Forest,Asia,Public
+SRA,SRR4289288,36.02,108.31,Forest,Asia,Public
+SRA,SRR4289289,36.02,108.31,Forest,Asia,Public
+SRA,SRR4289290,36.02,108.32,Forest,Asia,Public
+SRA,SRR4289291,36.02,108.32,Forest,Asia,Public
+SRA,SRR4289292,36.02,108.32,Forest,Asia,Public
+SRA,SRR5035371,50.8,8.812,Forest,Europe,Public
+SRA,SRR5133178,23.619323,116.87216,Agricultural land,Asia,Public
+SRA,SRR5133179,23.621002,116.871869,Agricultural land,Asia,Public
+SRA,SRR5152881,45.41,126.45,Agricultural land,Asia,Public
+SRA,SRR5177928,23.622873,116.81516,Agricultural land,Asia,Public
+SRA,SRR5177929,23.624572,116.811869,Agricultural land,Asia,Public
+SRA,SRR5195106,26.17,-97.96,Agricultural land,North America,Public
+SRA,SRR5195107,26.17,-97.96,Agricultural land,North America,Public
+SRA,SRR5195108,28.11,-81.71,Forest,North America,Public
+SRA,SRR5195109,28.11,-81.71,Forest,North America,Public
+SRA,SRR5195110,33.89,-117.42,Grassland,North America,Public
+SRA,SRR5195111,33.89,-117.42,Grassland,North America,Public
+SRA,SRR5195112,39.58,-0.36,Agricultural land,Europe,Public
+SRA,SRR5195114,37.51,-5.81,Agricultural land,Europe,Public
+SRA,SRR5195115,37.51,-5.81,Agricultural land,Europe,Public
+SRA,SRR5195116,-25.44,30.99,Agricultural land,Africa,Public
+SRA,SRR5195117,-25.77,27.61,Agricultural land,Africa,Public
+SRA,SRR5195118,-24.36,30.72,Forest,Africa,Public
+SRA,SRR5195119,37.49,14.81,Agricultural land,Europe,Public
+SRA,SRR5195121,37.28,14.88,Agricultural land,Europe,Public
+SRA,SRR5195123,38.28,16.24,Agricultural land,Europe,Public
+SRA,SRR5195124,38.28,16.24,Agricultural land,Europe,Public
+SRA,SRR5195131,25.46,114.52,Agricultural land,Asia,Public
+SRA,SRR5195132,25.46,114.52,Agricultural land,Asia,Public
+SRA,SRR5195133,23.07,108.18,Agricultural land,Asia,Public
+SRA,SRR5195135,23.64,112.82,Agricultural land,Asia,Public
+SRA,SRR5195136,23.64,112.82,Agricultural land,Asia,Public
+SRA,SRR5195137,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195138,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195139,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195140,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195141,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195142,-26.240738,-54.1545975,Forest,South America,Public
+SRA,SRR5195143,-25.59,151.3,Agricultural land,Australia,Public
+SRA,SRR5195144,-25.59,151.3,Agricultural land,Australia,Public
+SRA,SRR5195145,-37.17,146.22,Grassland,Australia,Public
+SRA,SRR5195146,-37.17,146.22,Grassland,Australia,Public
+SRA,SRR5195147,-34.18,142.15,Agricultural land,Australia,Public
+SRA,SRR5195148,-34.18,142.15,Agricultural land,Australia,Public
+SRA,SRR5204862,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5204863,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5205085,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5205807,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5205809,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5205814,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5206468,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207236,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207237,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207244,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207245,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207247,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207248,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207249,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207253,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207302,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5207342,45.54,-73.72,Forest,North America,Public
+SRA,SRR5207344,45.54,-73.72,Forest,North America,Public
+SRA,SRR5207566,45.54,-73.72,Forest,North America,Public
+SRA,SRR5207569,45.54,-73.72,Forest,North America,Public
+SRA,SRR5207629,45.54,-73.72,Forest,North America,Public
+SRA,SRR5208282,51.62,-128.09,Forest,North America,Public
+SRA,SRR5208283,51.62,-128.09,Forest,North America,Public
+SRA,SRR5208337,51.62,-128.09,Forest,North America,Public
+SRA,SRR5209019,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209020,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209021,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209022,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209023,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209025,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209026,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209027,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209028,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209029,42.98,-81.24,Agricultural land,North America,Public
+SRA,SRR5209942,37.4968,-122.1333,Wetland,North America,Public
+SRA,SRR5209943,37.4969,-122.1331,Wetland,North America,Public
+SRA,SRR5209944,37.4969,-122.1331,Wetland,North America,Public
+SRA,SRR5209945,37.4961,-122.1331,Wetland,North America,Public
+SRA,SRR5209946,37.4968,-122.1333,Wetland,North America,Public
+SRA,SRR5210208,37.4965,-122.133,Wetland,North America,Public
+SRA,SRR5210210,37.4958,-122.1331,Wetland,North America,Public
+SRA,SRR5210212,37.496,-122.1329,Wetland,North America,Public
+SRA,SRR5210213,37.4958,-122.1331,Wetland,North America,Public
+SRA,SRR5210214,37.4962,-122.1329,Wetland,North America,Public
+SRA,SRR5210466,37.4971,-122.129,Wetland,North America,Public
+SRA,SRR5210468,37.4973,-122.1295,Wetland,North America,Public
+SRA,SRR5210469,37.4972,-122.1293,Wetland,North America,Public
+SRA,SRR5210470,37.4965,-122.1329,Wetland,North America,Public
+SRA,SRR5213075,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213076,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213078,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213079,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213080,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213082,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213083,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213592,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213593,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213594,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213595,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213596,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5213597,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5214707,50.131881,11.881046,Wetland,Europe,Public
+SRA,SRR5214708,50.131881,11.881046,Wetland,Europe,Public
+SRA,SRR5215203,38.8693,-122.4283,Shrubland,North America,Public
+SRA,SRR5215204,38.8693,-122.4282,Shrubland,North America,Public
+SRA,SRR5215207,38.8692,-122.4282,Shrubland,North America,Public
+SRA,SRR5215213,38.8712,-122.4276,Shrubland,North America,Public
+SRA,SRR5215216,38.8724,-122.4268,Wetland,North America,Public
+SRA,SRR5215217,38.8723,-122.4268,Wetland,North America,Public
+SRA,SRR5215218,38.8722,-122.4269,Wetland,North America,Public
+SRA,SRR5215467,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215468,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215469,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215470,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215471,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215472,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215473,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215474,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215475,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215510,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215545,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215813,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5215831,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5216110,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5216117,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5246127,31.11,-95.15,Forest,North America,Public
+SRA,SRR5246500,31.11,-95.15,Forest,North America,Public
+SRA,SRR5256712,39.73825,-123.6301,Grassland,North America,Public
+SRA,SRR5256714,39.73825,-123.6301,Grassland,North America,Public
+SRA,SRR5256884,39.73825,-123.6301,Grassland,North America,Public
+SRA,SRR5256885,39.73825,-123.6301,Grassland,North America,Public
+SRA,SRR5256886,39.73825,-123.6301,Grassland,North America,Public
+SRA,SRR5258705,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5258706,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5258707,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5258708,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5259839,38.1087,-121.653,Agricultural land,North America,Public
+SRA,SRR5260221,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5260370,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5262244,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262245,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262246,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262247,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262248,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262249,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262250,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262252,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5262254,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5269546,37.931388,-122.021761,Agricultural land,North America,Public
+SRA,SRR5271154,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271155,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271156,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271157,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271163,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271165,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271166,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271167,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271168,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271169,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271170,51.62,-128.09,Forest,North America,Public
+SRA,SRR5271193,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272158,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272160,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272171,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5277367,51.62,-128.09,Forest,North America,Public
+SRA,SRR5428010,42.5502,-72.1737,Forest,North America,Public
+SRA,SRR5428012,42.3912,-72.1737,Forest,North America,Public
+SRA,SRR5428114,42.5502,-72.1737,Forest,North America,Public
+SRA,SRR5436189,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5436305,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5436309,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5436853,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437016,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437588,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437660,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437762,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437763,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437764,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437773,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437867,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437868,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437870,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437879,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5437899,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438034,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438045,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438046,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438067,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438093,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438094,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438105,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438128,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438132,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438270,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438309,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438445,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438477,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438552,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438874,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5438876,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5439155,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5439720,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5450873,45.54,-73.72,Forest,North America,Public
+SRA,SRR5467141,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5467142,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5468416,37.4971,-122.133,Wetland,North America,Public
+SRA,SRR5468417,37.4962,-122.1329,Wetland,North America,Public
+SRA,SRR5468419,37.4958,-122.1331,Wetland,North America,Public
+SRA,SRR5499425,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5499426,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5499427,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5499433,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR5579859,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579863,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579864,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579871,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579872,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579875,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579883,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579884,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5579885,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5580765,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5581483,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5582390,35.8443,-83.9607,Agricultural land,North America,Public
+SRA,SRR5582436,35.8443,-83.9607,Agricultural land,North America,Public
+SRA,SRR5639170,36.52,115.01,Agricultural land,Asia,Public
+SRA,SRR5659263,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5660397,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5660398,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5664279,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5664280,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665213,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665254,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665647,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665648,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665809,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5665811,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5674476,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5674536,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5678805,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678806,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678807,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678808,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678809,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678810,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678811,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678812,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678813,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678814,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678815,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5678816,43,-92.5,Agricultural land,North America,Public
+SRA,SRR5680860,71.299,-156.61,Tundra,North America,Public
+SRA,SRR5687767,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5687768,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5688500,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5688572,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5689334,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5690242,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5690348,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5690349,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5690554,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5690606,41.7655,-111.8143,Agricultural land,North America,Public
+SRA,SRR5690625,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5699024,33.8834,-83.4195,Agricultural land,North America,Public
+SRA,SRR5712664,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5712671,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5712672,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5712675,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5712691,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5713101,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5713226,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5829540,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829542,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829543,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829544,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829545,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829546,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829547,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829548,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829549,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829550,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR5829696,38.8692,-122.4283,Shrubland,North America,Public
+SRA,SRR5881195,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881227,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881275,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881293,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881296,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881392,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881394,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881396,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881397,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881398,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881409,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5881628,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR5882672,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5882724,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5882757,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5882762,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR5915952,-42.38459,147.31059,Grassland,Australia,Public
+SRA,SRR5915956,-42.24227,147.45971,Agricultural land,Australia,Public
+SRA,SRR5915997,-42.61742,147.42263,Agricultural land,Australia,Public
+SRA,SRR5916035,-13.84394,141.61639,Shrubland,Australia,Public
+SRA,SRR5916047,-42.54522,147.45611,Grassland,Australia,Public
+SRA,SRR5916087,-42.8223,147.50573,Grassland,Australia,Public
+SRA,SRR5916093,-42.27154,146.8927,Shrubland,Australia,Public
+SRA,SRR5916120,-13.74768,141.50618,Forest,Australia,Public
+SRA,SRR5916140,-42.61778,147.42226,Agricultural land,Australia,Public
+SRA,SRR5916164,-41.65563,145.08186,Forest,Australia,Public
+SRA,SRR5916175,-42.38784,147.04742,Shrubland,Australia,Public
+SRA,SRR5916184,-42.80744,147.4391,Agricultural land,Australia,Public
+SRA,SRR5916217,-42.27904,147.61451,Agricultural land,Australia,Public
+SRA,SRR5916275,-41.77754,147.31891,Forest,Australia,Public
+SRA,SRR5916285,-41.58365,145.09314,Grassland,Australia,Public
+SRA,SRR5916294,-42.38433,147.31092,Grassland,Australia,Public
+SRA,SRR5916310,-42.28444,147.40152,Agricultural land,Australia,Public
+SRA,SRR5916354,-42.8072,147.43977,Agricultural land,Australia,Public
+SRA,SRR5916420,-42.40422,147.40767,Forest,Australia,Public
+SRA,SRR5916425,-42.32849,147.39757,Forest,Australia,Public
+SRA,SRR5918911,-25.351,131.0423,Grassland,Australia,Public
+SRA,SRR5918912,-25.351,131.0423,Grassland,Australia,Public
+SRA,SRR5918913,-33.652613,150.267756,Agricultural land,Australia,Public
+SRA,SRR5918914,-33.652974,150.267825,Agricultural land,Australia,Public
+SRA,SRR5918916,-16.10341667,145.4478833,Forest,Australia,Public
+SRA,SRR5918921,-17.12108333,145.6308833,Forest,Australia,Public
+SRA,SRR5918944,-34.03715,140.7064,Shrubland,Australia,Public
+SRA,SRR5918954,-43.09507123,146.6542886,Forest,Australia,Public
+SRA,SRR5918955,-13.40822,135.77629,Grassland,Australia,Public
+SRA,SRR5918958,-37.25205,144.05391,Forest,Australia,Public
+SRA,SRR5918960,-34.098,140.3515262,Agricultural land,Australia,Public
+SRA,SRR5918970,-25.2875,130.92864,Grassland,Australia,Public
+SRA,SRR5918978,-31.86331667,126.9831,Grassland,Australia,Public
+SRA,SRR5918986,-35.15304021,150.7352711,Forest,Australia,Public
+SRA,SRR5918988,-25.3119,131.085,Grassland,Australia,Public
+SRA,SRR5918989,-25.3118,131.084,Grassland,Australia,Public
+SRA,SRR5918992,-35.12282,141.99678,Forest,Australia,Public
+SRA,SRR5918993,-36.67146,142.28934,Agricultural land,Australia,Public
+SRA,SRR5918994,-36.67146,142.28934,Agricultural land,Australia,Public
+SRA,SRR5918995,-36.67146,142.28934,Agricultural land,Australia,Public
+SRA,SRR5918996,-35.11641,141.97633,Agricultural land,Australia,Public
+SRA,SRR5918997,-35.12282,141.99678,Forest,Australia,Public
+SRA,SRR5918998,-35.12282,141.99678,Forest,Australia,Public
+SRA,SRR5919014,-33.659823,150.265414,Forest,Australia,Public
+SRA,SRR5919015,-33.659823,150.265414,Forest,Australia,Public
+SRA,SRR5919028,-42.1738,148.2791,Grassland,Australia,Public
+SRA,SRR5919096,-14.195246,135.71916,Forest,Australia,Public
+SRA,SRR5919098,-22.282754,133.249341,Grassland,Australia,Public
+SRA,SRR5919099,-27.386111,152.878872,Grassland,Australia,Public
+SRA,SRR5919101,-13.52115,134.50615,Grassland,Australia,Public
+SRA,SRR5919102,-12.50916,135.81029,Forest,Australia,Public
+SRA,SRR5919103,-12.93256,135.20189,Grassland,Australia,Public
+SRA,SRR5919105,-36.673214,145.029247,Forest,Australia,Public
+SRA,SRR5919106,-35.11641,141.97633,Agricultural land,Australia,Public
+SRA,SRR5919107,-35.11641,141.97633,Agricultural land,Australia,Public
+SRA,SRR5919108,-25.351,131.041,Grassland,Australia,Public
+SRA,SRR5919109,-25.351,131.041,Grassland,Australia,Public
+SRA,SRR5919112,-35.11641,141.97633,Agricultural land,Australia,Public
+SRA,SRR5919159,-31.40915,130.9936833,Grassland,Australia,Public
+SRA,SRR5919168,-35.14969942,150.686346,Forest,Australia,Public
+SRA,SRR5919197,-25.3504,131.0516,Grassland,Australia,Public
+SRA,SRR5919198,-25.3504,131.0516,Grassland,Australia,Public
+SRA,SRR5919199,-25.3504,131.0516,Grassland,Australia,Public
+SRA,SRR5919200,-25.3504,131.0516,Grassland,Australia,Public
+SRA,SRR5919201,-25.351,131.0423,Grassland,Australia,Public
+SRA,SRR5919202,-25.3504,131.0516,Grassland,Australia,Public
+SRA,SRR5919204,-25.351,131.0423,Grassland,Australia,Public
+SRA,SRR5919206,-25.351,131.041,Grassland,Australia,Public
+SRA,SRR5919212,-27.386111,152.878872,Grassland,Australia,Public
+SRA,SRR5919215,-27.632688,153.083025,Forest,Australia,Public
+SRA,SRR5919221,-29.00203333,134.6857167,Grassland,Australia,Public
+SRA,SRR5919227,-28.05051667,120.5461667,Shrubland,Australia,Public
+SRA,SRR5919245,-30.77565,138.7976,Forest,Australia,Public
+SRA,SRR5919246,-31.32774,138.5673,Forest,Australia,Public
+SRA,SRR5919249,-33.652818,150.268179,Agricultural land,Australia,Public
+SRA,SRR5919288,-35.1630042,150.6731254,Forest,Australia,Public
+SRA,SRR5919342,-34.93343,138.727,Forest,Australia,Public
+SRA,SRR5919343,-32.32096,137.9544,Forest,Australia,Public
+SRA,SRR5919346,-30.20066902,149.597249,Agricultural land,Australia,Public
+SRA,SRR5923059,-33.60897,150.7254,Agricultural land,Australia,Public
+SRA,SRR5923187,-33.62075,150.73423,Forest,Australia,Public
+SRA,SRR5923242,-33.6126,150.73769,Agricultural land,Australia,Public
+SRA,SRR5947199,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5947207,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5947208,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR5947209,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR6056278,37.4972,-122.1293,Wetland,North America,Public
+SRA,SRR6056297,37.4961,-122.1331,Wetland,North America,Public
+SRA,SRR6056298,37.4973,-122.1295,Wetland,North America,Public
+SRA,SRR6058998,39.7181,-123.6527,Forest,North America,Public
+SRA,SRR6059058,39.7181,-123.6527,Forest,North America,Public
+SRA,SRR6152564,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR6166740,49.33,119.95,Grassland,Asia,Public
+SRA,SRR6181342,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR6181350,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR6184192,39.7181,-123.6527,Grassland,North America,Public
+SRA,SRR6184671,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185295,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185312,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185369,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185436,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185437,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185503,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6185512,42.3938,-85.3708,Agricultural land,North America,Public
+SRA,SRR6186713,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6186997,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187048,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187200,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187201,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187397,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187398,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187399,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187400,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187401,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187402,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187431,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187455,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187549,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6187551,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188470,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188471,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188472,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188473,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188474,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188508,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188509,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188602,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6188768,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6193119,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR6195256,38.88,-120.64,Forest,North America,Public
+SRA,SRR6195952,38.88,-120.64,Forest,North America,Public
+SRA,SRR6195974,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR6195975,50.131881,11.881046,Forest,Europe,Public
+SRA,SRR6201746,38.88,-120.64,Forest,North America,Public
+SRA,SRR6201747,38.88,-120.64,Forest,North America,Public
+SRA,SRR6201865,44.20517707,-122.1284473,Forest,North America,Public
+SRA,SRR6201908,39.070856,-96.582821,Forest,North America,Public
+SRA,SRR6201927,39.05,-99.1,Forest,North America,Public
+SRA,SRR6201981,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201982,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201984,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201985,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201986,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201987,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201988,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201989,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201990,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201991,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201992,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201993,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201994,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201995,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201998,31.11,-95.15,Forest,North America,Public
+SRA,SRR6201999,31.11,-95.15,Forest,North America,Public
+SRA,SRR6202000,31.11,-95.15,Forest,North America,Public
+SRA,SRR6202007,31.11,-95.15,Forest,North America,Public
+SRA,SRR6202008,31.11,-95.15,Forest,North America,Public
+SRA,SRR6202011,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202012,31.11,-95.15,Forest,North America,Public
+SRA,SRR6202019,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202020,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202021,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202022,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202023,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202030,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202034,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202035,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202040,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202041,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202042,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202043,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202044,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202045,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202046,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202047,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202048,46.42,-83.37,Grassland,North America,Public
+SRA,SRR6202049,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202050,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202140,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202142,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202158,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202161,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202162,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202163,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202165,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202166,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202167,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202171,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202451,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202453,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202521,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202522,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202789,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202790,49.08,-89.38,Forest,North America,Public
+SRA,SRR6202795,49.08,-89.38,Forest,North America,Public
+SRA,SRR6204780,49.08,-89.38,Forest,North America,Public
+SRA,SRR6241674,23.21,109,Agricultural land,Asia,Public
+SRA,SRR6266403,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR6266478,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR6266480,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266508,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266536,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266542,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266545,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266566,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266567,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266568,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266576,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266700,39.5673,-123.4758,Grassland,North America,Public
+SRA,SRR6266849,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR6266851,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR6293899,38.8856,121.5079,Agricultural land,Asia,Public
+SRA,SRR6293900,38.8856,121.5079,Agricultural land,Asia,Public
+SRA,SRR6476469,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6476619,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6476620,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6476646,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6476660,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6478672,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6478735,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6478736,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6478752,42.4531,-76.3842,Agricultural land,North America,Public
+SRA,SRR6797243,52.0105,5.7818,Agricultural land,Europe,Public
+SRA,SRR6797244,52.0105,5.7818,Agricultural land,Europe,Public
+SRA,SRR6797246,52.0105,5.7818,Agricultural land,Europe,Public
+SRA,SRR6831574,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR6956465,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6956476,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6956671,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6956731,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR6958124,38.0262,-109.5407,Shrubland,North America,Public
+SRA,SRR6958471,37.9013,-109.5337,Forest,North America,Public
+SRA,SRR6958472,41.136,-111.9047,Agricultural land,North America,Public
+SRA,SRR6958552,45.2639,-110.8632,Grassland,North America,Public
+SRA,SRR7003761,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003762,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003763,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003764,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003765,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003766,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003767,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7003810,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7004144,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7004167,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7004174,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7004194,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7004195,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7004196,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7004197,33.3049,-116.2547,Bare Land,North America,Public
+SRA,SRR7004198,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004199,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004200,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004201,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004202,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004203,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004204,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004205,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004206,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004333,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004334,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004335,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004337,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004338,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004339,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004340,3.8381,-73.3194,Grassland,South America,Public
+SRA,SRR7004342,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004343,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004344,4.0627,-73.195,Grassland,South America,Public
+SRA,SRR7004345,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004346,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7004347,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7006909,4.2396,-73.2024,Grassland,South America,Public
+SRA,SRR7010302,38.9136,-106.8951,Forest,North America,Public
+SRA,SRR7010303,38.9136,-106.8951,Forest,North America,Public
+SRA,SRR7010524,38.9136,-106.8951,Forest,North America,Public
+SRA,SRR7010525,38.9136,-106.8951,Forest,North America,Public
+SRA,SRR7010528,38.9137,-106.8949,Forest,North America,Public
+SRA,SRR7010529,38.9137,-106.8949,Forest,North America,Public
+SRA,SRR7011027,38.9137,-106.8949,Forest,North America,Public
+SRA,SRR7011028,38.9137,-106.8949,Forest,North America,Public
+SRA,SRR7011568,38.9138,-106.8952,Forest,North America,Public
+SRA,SRR7011569,38.9138,-106.8952,Forest,North America,Public
+SRA,SRR7011570,38.9134,-106.8956,Forest,North America,Public
+SRA,SRR7011571,38.9134,-106.8956,Forest,North America,Public
+SRA,SRR7011573,38.9138,-106.8952,Forest,North America,Public
+SRA,SRR7011574,38.9138,-106.8952,Forest,North America,Public
+SRA,SRR7011725,38.9203,-106.9486,Grassland,North America,Public
+SRA,SRR7011726,38.9203,-106.9486,Grassland,North America,Public
+SRA,SRR7011942,38.9205,-106.9513,Shrubland,North America,Public
+SRA,SRR7011943,38.9205,-106.9513,Shrubland,North America,Public
+SRA,SRR7011944,38.9203,-106.9486,Grassland,North America,Public
+SRA,SRR7011945,38.9203,-106.9486,Grassland,North America,Public
+SRA,SRR7011951,38.9134,-106.8956,Forest,North America,Public
+SRA,SRR7011953,38.9205,-106.9513,Shrubland,North America,Public
+SRA,SRR7011954,38.9205,-106.9513,Shrubland,North America,Public
+SRA,SRR7011960,38.9203,-106.9495,Grassland,North America,Public
+SRA,SRR7011961,38.9203,-106.9495,Grassland,North America,Public
+SRA,SRR7011963,38.9203,-106.9495,Grassland,North America,Public
+SRA,SRR7011964,38.9203,-106.9495,Grassland,North America,Public
+SRA,SRR7011991,38.9206,-106.9514,Shrubland,North America,Public
+SRA,SRR7011995,38.9206,-106.9514,Shrubland,North America,Public
+SRA,SRR7011996,38.9206,-106.9514,Shrubland,North America,Public
+SRA,SRR7011997,38.9821,-107.0102,Forest,North America,Public
+SRA,SRR7011999,38.9825,-107.0101,Grassland,North America,Public
+SRA,SRR7012000,38.9825,-107.0101,Grassland,North America,Public
+SRA,SRR7012006,38.9821,-107.0102,Forest,North America,Public
+SRA,SRR7012007,38.9821,-107.0102,Forest,North America,Public
+SRA,SRR7012429,38.9825,-107.0101,Grassland,North America,Public
+SRA,SRR7012430,38.9825,-107.0101,Grassland,North America,Public
+SRA,SRR7012453,38.9827,-107.0102,Grassland,North America,Public
+SRA,SRR7012454,38.9827,-107.0102,Grassland,North America,Public
+SRA,SRR7012891,38.9827,-107.0102,Grassland,North America,Public
+SRA,SRR7012892,38.9827,-107.0102,Grassland,North America,Public
+SRA,SRR7012999,38.9355,-106.9424,Grassland,North America,Public
+SRA,SRR7013000,38.9355,-106.9424,Grassland,North America,Public
+SRA,SRR7013837,50.28,-107.8,Agricultural land,North America,Public
+SRA,SRR7013838,50.28,-107.8,Agricultural land,North America,Public
+SRA,SRR7013839,50.28,-107.8,Agricultural land,North America,Public
+SRA,SRR7013844,50.28,-107.8,Agricultural land,North America,Public
+SRA,SRR7015784,38.9362,-106.9425,Forest,North America,Public
+SRA,SRR7015785,38.9362,-106.9425,Forest,North America,Public
+SRA,SRR7015786,38.9354,-106.9424,Grassland,North America,Public
+SRA,SRR7015787,38.9354,-106.9424,Grassland,North America,Public
+SRA,SRR7015886,38.9365,-106.9428,Forest,North America,Public
+SRA,SRR7015887,38.9365,-106.9428,Forest,North America,Public
+SRA,SRR7015888,38.9355,-106.9424,Grassland,North America,Public
+SRA,SRR7015889,38.9355,-106.9424,Grassland,North America,Public
+SRA,SRR7015890,38.9365,-106.9428,Forest,North America,Public
+SRA,SRR7015891,38.9365,-106.9428,Forest,North America,Public
+SRA,SRR7015892,38.987,-107.0038,Grassland,North America,Public
+SRA,SRR7015893,38.987,-107.0038,Grassland,North America,Public
+SRA,SRR7015916,38.9354,-106.9424,Grassland,North America,Public
+SRA,SRR7015917,38.9354,-106.9424,Grassland,North America,Public
+SRA,SRR7015918,38.987,-107.0038,Grassland,North America,Public
+SRA,SRR7015919,38.987,-107.0038,Grassland,North America,Public
+SRA,SRR7015921,38.9362,-106.9425,Forest,North America,Public
+SRA,SRR7026199,38.9866,-107.0007,Forest,North America,Public
+SRA,SRR7026200,38.9866,-107.0007,Forest,North America,Public
+SRA,SRR7026201,38.9225,-106.9538,Shrubland,North America,Public
+SRA,SRR7026202,38.9225,-106.9538,Shrubland,North America,Public
+SRA,SRR7026233,38.9225,-106.9538,Shrubland,North America,Public
+SRA,SRR7026234,38.9225,-106.9538,Shrubland,North America,Public
+SRA,SRR7026235,38.9871,-107.0011,Forest,North America,Public
+SRA,SRR7026236,38.9871,-107.0011,Forest,North America,Public
+SRA,SRR7026237,38.9223,-106.954,Shrubland,North America,Public
+SRA,SRR7026238,38.9223,-106.954,Shrubland,North America,Public
+SRA,SRR7026259,38.9866,-107.0007,Forest,North America,Public
+SRA,SRR7026260,38.9866,-107.0007,Forest,North America,Public
+SRA,SRR7026261,38.9871,-107.0011,Forest,North America,Public
+SRA,SRR7026262,38.9871,-107.0011,Forest,North America,Public
+SRA,SRR7026263,38.9223,-106.954,Shrubland,North America,Public
+SRA,SRR7026264,38.9223,-106.954,Shrubland,North America,Public
+SRA,SRR7026313,38.9223,-106.9536,Wetland,North America,Public
+SRA,SRR7026314,38.9223,-106.9536,Wetland,North America,Public
+SRA,SRR7026336,38.9223,-106.9536,Wetland,North America,Public
+SRA,SRR7026337,38.9223,-106.9536,Wetland,North America,Public
+SRA,SRR7026338,38.9228,-106.9541,Shrubland,North America,Public
+SRA,SRR7026339,38.9228,-106.9541,Shrubland,North America,Public
+SRA,SRR7026340,38.9228,-106.9541,Shrubland,North America,Public
+SRA,SRR7026341,38.9228,-106.9541,Shrubland,North America,Public
+SRA,SRR7026342,38.8827,-106.9107,Grassland,North America,Public
+SRA,SRR7026343,38.8827,-106.9107,Grassland,North America,Public
+SRA,SRR7026344,38.8827,-106.9107,Grassland,North America,Public
+SRA,SRR7026345,38.8827,-106.9107,Grassland,North America,Public
+SRA,SRR7026346,38.8826,-106.9101,Grassland,North America,Public
+SRA,SRR7026347,38.8826,-106.9101,Grassland,North America,Public
+SRA,SRR7026370,38.8825,-106.9105,Grassland,North America,Public
+SRA,SRR7026371,38.8825,-106.9105,Grassland,North America,Public
+SRA,SRR7026372,38.8826,-106.9101,Grassland,North America,Public
+SRA,SRR7026373,38.8826,-106.9101,Grassland,North America,Public
+SRA,SRR7026374,38.8825,-106.9105,Grassland,North America,Public
+SRA,SRR7026375,38.8825,-106.9105,Grassland,North America,Public
+SRA,SRR7026472,38.8927,-106.9112,Grassland,North America,Public
+SRA,SRR7026473,38.8927,-106.9112,Grassland,North America,Public
+SRA,SRR7026474,38.883,-106.9108,Forest,North America,Public
+SRA,SRR7026475,38.883,-106.9108,Forest,North America,Public
+SRA,SRR7026476,38.883,-106.9108,Forest,North America,Public
+SRA,SRR7026477,38.883,-106.9108,Forest,North America,Public
+SRA,SRR7026479,38.8925,-106.9111,Grassland,North America,Public
+SRA,SRR7026480,38.8925,-106.9111,Grassland,North America,Public
+SRA,SRR7026485,38.8927,-106.9112,Grassland,North America,Public
+SRA,SRR7026486,38.8927,-106.9112,Grassland,North America,Public
+SRA,SRR7026487,38.8925,-106.9111,Grassland,North America,Public
+SRA,SRR7026488,38.8925,-106.9111,Grassland,North America,Public
+SRA,SRR7026559,38.8926,-106.9111,Grassland,North America,Public
+SRA,SRR7026561,38.8926,-106.9111,Grassland,North America,Public
+SRA,SRR7026562,38.8926,-106.9111,Grassland,North America,Public
+SRA,SRR7026564,38.8924,-106.9111,Grassland,North America,Public
+SRA,SRR7026568,38.8924,-106.9111,Grassland,North America,Public
+SRA,SRR7026569,38.8924,-106.9111,Grassland,North America,Public
+SRA,SRR7026570,38.9767,-107.0044,Forest,North America,Public
+SRA,SRR7026571,38.9767,-107.0044,Forest,North America,Public
+SRA,SRR7026572,38.9767,-107.0044,Forest,North America,Public
+SRA,SRR7026573,38.9767,-107.0044,Forest,North America,Public
+SRA,SRR7027364,38.9765,-107.0043,Forest,North America,Public
+SRA,SRR7027365,38.9765,-107.0043,Forest,North America,Public
+SRA,SRR7027366,38.9763,-107.0041,Forest,North America,Public
+SRA,SRR7027367,38.9763,-107.0041,Forest,North America,Public
+SRA,SRR7027368,38.9763,-107.0041,Forest,North America,Public
+SRA,SRR7027369,38.9763,-107.0041,Forest,North America,Public
+SRA,SRR7027379,38.9765,-107.0043,Forest,North America,Public
+SRA,SRR7027380,38.9765,-107.0043,Forest,North America,Public
+SRA,SRR7091522,-19.28,-43.5919,Grassland,South America,Public
+SRA,SRR7091523,-19.28,-43.5919,Grassland,South America,Public
+SRA,SRR7093038,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093792,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093793,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093794,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093795,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093796,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7093797,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7094830,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7094832,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7094833,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7094834,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7095402,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7096127,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7096238,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7097860,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7097861,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7097862,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7097863,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7098091,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7098092,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7100769,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7100789,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7101043,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7101595,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7102015,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7102016,42.481016,-72.178343,Forest,North America,Public
+SRA,SRR7141809,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7467816,18,-65,Forest,North America,Public
+SRA,SRR7468328,18,-65,Forest,North America,Public
+SRA,SRR7468329,18,-65,Forest,North America,Public
+SRA,SRR7468330,18,-65,Forest,North America,Public
+SRA,SRR7468331,18,-65,Forest,North America,Public
+SRA,SRR7468582,18,-65,Forest,North America,Public
+SRA,SRR7468592,18,-65,Forest,North America,Public
+SRA,SRR7468842,18,-65,Forest,North America,Public
+SRA,SRR7468846,18,-65,Forest,North America,Public
+SRA,SRR7468865,18,-65,Forest,North America,Public
+SRA,SRR7469208,18,-65,Forest,North America,Public
+SRA,SRR7469209,18,-65,Forest,North America,Public
+SRA,SRR7469572,18,-65,Forest,North America,Public
+SRA,SRR7469583,18,-65,Forest,North America,Public
+SRA,SRR7469745,18,-65,Forest,North America,Public
+SRA,SRR7470025,18,-65,Forest,North America,Public
+SRA,SRR7470026,18,-65,Forest,North America,Public
+SRA,SRR7470361,18,-65,Forest,North America,Public
+SRA,SRR7470970,18,-65,Forest,North America,Public
+SRA,SRR7470972,18,-65,Forest,North America,Public
+SRA,SRR7470973,18,-65,Forest,North America,Public
+SRA,SRR7470978,18,-65,Forest,North America,Public
+SRA,SRR7471037,18,-65,Forest,North America,Public
+SRA,SRR7471038,18,-65,Forest,North America,Public
+SRA,SRR7471040,18,-65,Forest,North America,Public
+SRA,SRR7471043,18,-65,Forest,North America,Public
+SRA,SRR7471159,18,-65,Forest,North America,Public
+SRA,SRR7471160,18,-65,Forest,North America,Public
+SRA,SRR7471161,18,-65,Forest,North America,Public
+SRA,SRR7471224,18,-65,Forest,North America,Public
+SRA,SRR7471225,18,-65,Forest,North America,Public
+SRA,SRR7471226,18,-65,Forest,North America,Public
+SRA,SRR7471323,18,-65,Forest,North America,Public
+SRA,SRR7471324,18,-65,Forest,North America,Public
+SRA,SRR7471325,18,-65,Forest,North America,Public
+SRA,SRR7471326,18,-65,Forest,North America,Public
+SRA,SRR7471327,18,-65,Forest,North America,Public
+SRA,SRR7471329,18,-65,Forest,North America,Public
+SRA,SRR7471330,18,-65,Forest,North America,Public
+SRA,SRR7471331,18,-65,Forest,North America,Public
+SRA,SRR7471335,18,-65,Forest,North America,Public
+SRA,SRR7471336,18,-65,Forest,North America,Public
+SRA,SRR7471412,18,-65,Forest,North America,Public
+SRA,SRR7471413,18,-65,Forest,North America,Public
+SRA,SRR7471414,18,-65,Forest,North America,Public
+SRA,SRR7471415,18,-65,Forest,North America,Public
+SRA,SRR7471668,18,-65,Forest,North America,Public
+SRA,SRR7471669,18,-65,Forest,North America,Public
+SRA,SRR7471670,18,-65,Forest,North America,Public
+SRA,SRR7471683,18,-65,Forest,North America,Public
+SRA,SRR7471701,18,-65,Forest,North America,Public
+SRA,SRR7471702,18,-65,Forest,North America,Public
+SRA,SRR7471703,18,-65,Forest,North America,Public
+SRA,SRR7471704,18,-65,Forest,North America,Public
+SRA,SRR7471708,18,-65,Forest,North America,Public
+SRA,SRR7471730,18,-65,Forest,North America,Public
+SRA,SRR7471731,18,-65,Forest,North America,Public
+SRA,SRR7471732,18,-65,Forest,North America,Public
+SRA,SRR7471733,18,-65,Forest,North America,Public
+SRA,SRR7471734,18,-65,Forest,North America,Public
+SRA,SRR7472063,18,-65,Forest,North America,Public
+SRA,SRR7472064,18,-65,Forest,North America,Public
+SRA,SRR7495874,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR7495881,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR7497547,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7497548,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7497549,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7497550,33.305,-116.2547,Bare Land,North America,Public
+SRA,SRR7591063,49.0448,13.618,Forest,Europe,Public
+SRA,SRR7595537,-41.77754,147.31891,Forest,Australia,Public
+SRA,SRR7595568,-42.27154,146.8927,Shrubland,Australia,Public
+SRA,SRR7595584,-30.20066902,149.597249,Agricultural land,Australia,Public
+SRA,SRR7629274,44.95,-92.98,Wetland,North America,Public
+SRA,SRR7629275,44.9,-92.98,Wetland,North America,Public
+SRA,SRR7629276,45.15,-92.8,Wetland,North America,Public
+SRA,SRR7629277,45.09,-93.13,Wetland,North America,Public
+SRA,SRR7629278,45.02,-93.14,Wetland,North America,Public
+SRA,SRR7629279,44.9564628,-92.9913765,Wetland,North America,Public
+SRA,SRR7629280,44.9059497,-92.9894484,Wetland,North America,Public
+SRA,SRR7629281,46.61,-94.16,Wetland,North America,Public
+SRA,SRR7629282,46.61,-94.16,Wetland,North America,Public
+SRA,SRR7686989,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7686990,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7686991,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7686992,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7686993,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7686999,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687000,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687001,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687002,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687003,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687004,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687005,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687006,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687007,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687008,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687010,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687011,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687012,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687013,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687014,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687071,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687072,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687073,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687074,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687075,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687076,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687077,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687087,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR7687341,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR7777325,39.7392,-123.6308,Grassland,North America,Public
+SRA,SRR7882662,40.801167,-76.3429,Shrubland,North America,Public
+SRA,SRR7882663,40.801167,-76.3429,Shrubland,North America,Public
+SRA,SRR7965387,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965391,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965730,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965772,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965773,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965774,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965775,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965806,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965807,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7965808,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967783,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967784,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967785,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967786,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967787,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967818,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967860,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967861,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967862,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967863,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967864,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967865,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967922,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967948,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967952,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967953,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7967954,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7968240,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968259,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968260,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968261,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968333,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968350,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968364,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968380,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968381,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968382,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968383,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968417,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968834,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968837,44.23,-122.22,Forest,North America,Public
+SRA,SRR7968838,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969078,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969083,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969286,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969287,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969288,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969289,44.23,-122.22,Forest,North America,Public
+SRA,SRR7969351,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970553,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970554,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970555,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970742,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970743,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970744,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970745,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970746,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970950,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970951,44.23,-122.22,Forest,North America,Public
+SRA,SRR7970985,44.23,-122.22,Forest,North America,Public
+SRA,SRR7974119,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR7975437,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7975438,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR7975446,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR7976076,37.9813,-109.5168,Wetland,North America,Public
+SRA,SRR7976077,35.0244,-111.7363,Forest,North America,Public
+SRA,SRR7976078,33.5944,-109.1397,Shrubland,North America,Public
+SRA,SRR7976138,37.83,-122.29,Agricultural land,North America,Public
+SRA,SRR7976139,44.4668,-109.6253,Wetland,North America,Public
+SRA,SRR7976237,37.83,-122.29,Agricultural land,North America,Public
+SRA,SRR8090375,71.2999,-156.61,Tundra,North America,Public
+SRA,SRR8100014,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100015,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100016,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100017,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100018,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100019,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100020,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100021,21.5416,-158.0875,Agricultural land,North America,Public
+SRA,SRR8100044,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR8185406,32.03,118.46,Agricultural land,Asia,Public
+SRA,SRR8191071,9.1086,-79.8436,Forest,North America,Public
+SRA,SRR8205298,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205300,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205301,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205303,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205304,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205305,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205306,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205307,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205308,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205309,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205310,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205311,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205312,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205313,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205314,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8205316,43.2167,116.2333,Grassland,Asia,Public
+SRA,SRR8270004,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8270006,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8435548,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8435584,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8435635,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8435649,41.9167,-93.75,Agricultural land,North America,Public
+SRA,SRR8437982,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8437983,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8437984,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438001,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438002,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438005,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438006,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438007,40.4449,-87.0297,Forest,North America,Public
+SRA,SRR8438359,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438360,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438362,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438363,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438364,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438365,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438377,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438383,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438384,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438981,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438982,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8438987,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438988,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438989,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8438990,32.5788,-110.8509,Agricultural land,North America,Public
+SRA,SRR8439256,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8439257,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8439258,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8439261,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8439391,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8536102,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8536150,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8536153,32.5789,-110.8512,Agricultural land,North America,Public
+SRA,SRR8536155,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR8536188,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8536189,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8536191,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8536201,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR8536941,44.23,-122.22,Forest,North America,Public
+SRA,SRR8543488,31.34,90.6,Grassland,Asia,Public
+SRA,SRR8544467,30.58,90.87,Bare Land,Asia,Public
+SRA,SRR8549365,36,-78,Agricultural land,North America,Public
+SRA,SRR8553626,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553627,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553635,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553636,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553638,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553639,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553640,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553641,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8553642,38.9206,-106.9489,Shrubland,North America,Public
+SRA,SRR8554483,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554485,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554501,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554503,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554504,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554505,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554511,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554512,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554643,63.0472,21.7116,Agricultural land,Europe,Public
+SRA,SRR8554898,30.68,91.1,Bare Land,Asia,Public
+SRA,SRR8556377,31.77,89.06,Grassland,Asia,Public
+SRA,SRR8821132,-30.20066902,149.597249,Agricultural land,Australia,Public
+SRA,SRR8821142,-41.77754,147.31891,Forest,Australia,Public
+SRA,SRR8821151,-42.27154,146.8927,Shrubland,Australia,Public
+SRA,SRR8858270,33.0544457,-116.3577702,Shrubland,North America,Public
+SRA,SRR8862977,44.5508,-123.25,Wetland,North America,Public
+SRA,SRR8863040,45.0822,-123.061,Wetland,North America,Public
+SRA,SRR8863074,45.654,-122.839,Forest,North America,Public
+SRA,SRR8863101,45.6996,-121.669,Forest,North America,Public
+SRA,SRR8863102,45.5468,-122.376,Wetland,North America,Public
+SRA,SRR8863176,46.6253,-120.532,Wetland,North America,Public
+SRA,SRR8863177,45.9233,-120.701,Forest,North America,Public
+SRA,SRR8863178,46.6992,-120.899,Forest,North America,Public
+SRA,SRR8863179,47.5302,-121.825,Forest,North America,Public
+SRA,SRR8863180,48.4473,-122.323,Forest,North America,Public
+SRA,SRR8863203,47.6684,-121.924,Agricultural land,North America,Public
+SRA,SRR8874670,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR8874768,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR8874838,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR8879130,26.5008,-80.2398,Wetland,North America,Public
+SRA,SRR8879131,26.5008,-80.2398,Wetland,North America,Public
+SRA,SRR8879132,26.5059,-80.2517,Wetland,North America,Public
+SRA,SRR8879133,26.5059,-80.2517,Wetland,North America,Public
+SRA,SRR8879134,26.5008,-80.2398,Wetland,North America,Public
+SRA,SRR8879135,26.5059,-80.2517,Wetland,North America,Public
+SRA,SRR8879136,26.5059,-80.2517,Wetland,North America,Public
+SRA,SRR8879137,26.5059,-80.2517,Wetland,North America,Public
+SRA,SRR8881005,26.5065,-80.2537,Wetland,North America,Public
+SRA,SRR8881006,26.5052,-80.2345,Wetland,North America,Public
+SRA,SRR8881007,26.5052,-80.2345,Wetland,North America,Public
+SRA,SRR8881008,26.5065,-80.2537,Wetland,North America,Public
+SRA,SRR8881009,26.5052,-80.2345,Wetland,North America,Public
+SRA,SRR8881010,26.5065,-80.2537,Wetland,North America,Public
+SRA,SRR8881011,26.5065,-80.2537,Wetland,North America,Public
+SRA,SRR8881341,26.5065,-80.2537,Wetland,North America,Public
+SRA,SRR8881745,26.5052,-80.2345,Wetland,North America,Public
+SRA,SRR8987900,27.22,-109.55,Shrubland,North America,Public
+SRA,SRR8987901,27.22,-109.55,Shrubland,North America,Public
+SRA,SRR8987902,27.22,-109.55,Shrubland,North America,Public
+SRA,SRR8987903,27.22,-109.55,Shrubland,North America,Public
+SRA,SRR9002931,39.7291,-123.6419,Forest,North America,Public
+SRA,SRR9007738,42.673,-77.032,Agricultural land,North America,Public
+SRA,SRR9009769,36,-78,Agricultural land,North America,Public
+SRA,SRR9009773,36,-78,Agricultural land,North America,Public
+SRA,SRR9009774,36,-78,Agricultural land,North America,Public
+SRA,SRR9030504,53.93,-116.58,Forest,North America,Public
+SRA,SRR9030505,53.93,-116.58,Forest,North America,Public
+SRA,SRR9030506,53.93,-116.58,Forest,North America,Public
+SRA,SRR9030507,53.93,-116.58,Forest,North America,Public
+SRA,SRR9032072,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032073,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032074,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032075,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032198,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032199,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032202,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032259,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032267,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032300,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032509,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032510,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032615,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032694,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR9032715,39.6475,-79.9369,Agricultural land,North America,Public
+SRA,SRR988077,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988082,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988083,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988085,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988086,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988087,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988088,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988089,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988090,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988091,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988092,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988093,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988094,34.975667,-97.519,Forest,North America,Public
+SRA,SRR988096,34.975667,-97.519,Forest,North America,Public
+China2018,S1,34.76777778,111.7691667,Agricultural land,Asia,In-house
+China2018,S2,34.78222222,111.7647222,Agricultural land,Asia,In-house
+China2018,S3,33.18166667,113.86,Forest,Asia,In-house
+China2018,S4,32.96,113.0766667,Agricultural land,Asia,In-house
+China2018,S5,32.9625,113.77,Agricultural land,Asia,In-house
+China2018,S6,33.00277778,112.5905556,Wetland,Asia,In-house
+China2018,S7,33.00277778,112.5908333,Grassland,Asia,In-house
+China2018,S8,34.4125,113.57,Forest,Asia,In-house
+China2018,S9,34.68861111,113.5530556,Agricultural land,Asia,In-house
+China2018,S10,34.64333333,113.5705556,Wetland,Asia,In-house
+China2018,S11,34.55472222,113.4830556,Agricultural land,Asia,In-house
+China2018,S12,34.46194444,113.4388889,Agricultural land,Asia,In-house
+China2018,S13,34.15444444,112.1061111,Grassland,Asia,In-house
+China2018,S14,34.13277778,112.0888889,Agricultural land,Asia,In-house
+China2018,S16,34.24222222,112.2030556,Forest,Asia,In-house
+China2018,S17,34.27472222,112.24,Agricultural land,Asia,In-house
+China2018,S18,34.32833333,112.3002778,Agricultural land,Asia,In-house
+China2018,S20,32.32305556,113.6236111,Forest,Asia,In-house
+China2018,S21,32.32416667,113.6247222,Agricultural land,Asia,In-house
+China2018,S22,32.32416667,113.6247222,Agricultural land,Asia,In-house
+China2018,S23,32.32388889,113.6244444,Grassland,Asia,In-house
+China2018,S24,32.31833333,110.02,Forest,Asia,In-house
+China2018,S25,32.34583333,110.0236111,Agricultural land,Asia,In-house
+China2018,S28,32.65944444,110.7952778,Forest,Asia,In-house
+China2018,S29,29.26416667,113.1183333,Forest,Asia,In-house
+China2018,S32,29.43583333,113.0172222,Agricultural land,Asia,In-house
+China2018,S35,25.89861111,113.0055556,Agricultural land,Asia,In-house
+China2018,S37,25.89333333,113.0036111,Grassland,Asia,In-house
+China2018,S38,25.8,113.0225,Agricultural land,Asia,In-house
+China2018,S42,27.14611111,110.0333333,Agricultural land,Asia,In-house
+China2018,S46,36.39888889,118.0186111,Agricultural land,Asia,In-house
+China2018,S47,36.44611111,117.9688889,Agricultural land,Asia,In-house
+China2018,S48,36.40777778,118.0188889,Forest,Asia,In-house
+China2018,S49,36.51472222,117.8552778,Agricultural land,Asia,In-house
+China2018,S50,37.58166667,118.0441667,Agricultural land,Asia,In-house
+China2018,S51,37.3825,117.9502778,Wetland,Asia,In-house
+China2018,S52,37.40222222,117.9291667,Agricultural land,Asia,In-house
+China2018,S56,30.65416667,117.4133333,Agricultural land,Asia,In-house
+China2018,S57,30.65416667,117.4161111,Agricultural land,Asia,In-house
+China2018,S58,30.64388889,117.4930556,Agricultural land,Asia,In-house
+China2018,S59,30.64388889,117.4927778,Wetland,Asia,In-house
+China2018,S60,30.64111111,117.5011111,Forest,Asia,In-house
+China2018,S61,30.63333333,117.4869444,Grassland,Asia,In-house
+China2018,S62,30.64527778,117.4222222,Agricultural land,Asia,In-house
+China2018,S63,31.90083333,117.2427778,Wetland,Asia,In-house
+China2018,S66,31.67638889,117.2208333,Agricultural land,Asia,In-house
+China2018,S69,30.83416667,117.1713889,Forest,Asia,In-house
+China2018,S70,31.25,118.32,Agricultural land,Asia,In-house
+China2018,S72,31.23694444,118.22,Agricultural land,Asia,In-house
+China2018,S75,31.23694444,118.31,Agricultural land,Asia,In-house
+China2018,S76,31.27694444,118.2980556,Forest,Asia,In-house
+China2018,S77,39.63138889,116.585,Agricultural land,Asia,In-house
+China2018,S91,27.73972222,118.0672222,Agricultural land,Asia,In-house
+China2018,S92,27.76083333,118.0305556,Agricultural land,Asia,In-house
+China2018,S107,22.43416667,113.5175,Forest,Asia,In-house
+China2018,S108,22.3675,113.5805556,Agricultural land,Asia,In-house
+China2018,S109,25.21662222,110.2520361,Agricultural land,Asia,In-house
+China2018,S112,25.07,110.3058333,Agricultural land,Asia,In-house
+China2018,S113,25.07333333,110.2930556,Wetland,Asia,In-house
+China2018,S114,25.06888889,110.2833333,Agricultural land,Asia,In-house
+China2018,S118,24.20194444,109.3694444,Forest,Asia,In-house
+China2018,S120,24.10416667,109.0902778,Grassland,Asia,In-house
+China2018,S121,24.28361111,109.4077778,Agricultural land,Asia,In-house
+China2018,S122,22.97777778,108.5777778,Agricultural land,Asia,In-house
+China2018,S125,22.86527778,108.3375,Agricultural land,Asia,In-house
+China2018,S126,22.92444444,108.5405556,Agricultural land,Asia,In-house
+China2018,S127,22.88888889,108.3725,Agricultural land,Asia,In-house
+China2018,S128,22.92611111,108.3730556,Wetland,Asia,In-house
+China2018,S129,26.32194444,106.1388889,Agricultural land,Asia,In-house
+China2018,S130,26.32083333,106.1394444,Forest,Asia,In-house
+China2018,S132,26.30638889,106.1388889,Agricultural land,Asia,In-house
+China2018,S134,27.04277778,107.0227778,Agricultural land,Asia,In-house
+China2018,S135,27.04361111,106.9605556,Agricultural land,Asia,In-house
+China2018,S136,27.04277778,107.0227778,Agricultural land,Asia,In-house
+China2018,S137,27.0425,107.0227778,Agricultural land,Asia,In-house
+China2018,S139,25.81277778,107.1766667,Agricultural land,Asia,In-house
+China2018,S140,25.805,107.1752778,Agricultural land,Asia,In-house
+China2018,S141,25.86194444,107.1297222,Agricultural land,Asia,In-house
+China2018,S142,25.80444444,107.1847222,Grassland,Asia,In-house
+China2018,S143,25.84944444,107.1669444,Agricultural land,Asia,In-house
+China2018,S145,20.03444444,110.3377778,Agricultural land,Asia,In-house
+China2018,S155,18.33722222,109.4611111,Forest,Asia,In-house
+China2018,S162,37.9525,114.7902778,Agricultural land,Asia,In-house
+China2018,S163,37.91027778,114.3455556,Forest,Asia,In-house
+China2018,S165,37.87444444,114.8925,Agricultural land,Asia,In-house
+China2018,S168,32.16333333,114.1133333,Agricultural land,Asia,In-house
+China2018,S171,32.07444444,114.1177778,Forest,Asia,In-house
+China2018,S173,35.31666667,114.9069444,Forest,Asia,In-house
+China2018,S174,35.28111111,114.8736111,Wetland,Asia,In-house
+China2018,S175,35.22777778,114.8311111,Grassland,Asia,In-house
+China2018,S176,35.20472222,114.7486111,Agricultural land,Asia,In-house
+China2018,S177,35.33527778,114.9025,Agricultural land,Asia,In-house
+China2018,S178,35.37,114.9216667,Agricultural land,Asia,In-house
+China2018,S179,44.575,129.7,Agricultural land,Asia,In-house
+China2018,S180,44.54944444,129.7413889,Agricultural land,Asia,In-house
+China2018,S182,45.74666667,126.5930556,Agricultural land,Asia,In-house
+China2018,S184,47.32861111,124.0794444,Forest,Asia,In-house
+China2018,S185,47.20055556,124.2113889,Wetland,Asia,In-house
+China2018,S186,47.32388889,124.0875,Agricultural land,Asia,In-house
+China2018,S187,46.61055556,126.8816667,Agricultural land,Asia,In-house
+China2018,S188,47.29444444,129.4255556,Forest,Asia,In-house
+China2018,S191,30.10888889,114.9202778,Agricultural land,Asia,In-house
+China2018,S193,30.39666667,109.5719444,Forest,Asia,In-house
+China2018,S199,30.19694444,114.9622222,Forest,Asia,In-house
+China2018,S209,29.50166667,112.8005556,Wetland,Asia,In-house
+China2018,S211,45.0125,124.9825,Agricultural land,Asia,In-house
+China2018,S212,45.11861111,124.4161111,Grassland,Asia,In-house
+China2018,S213,42.94444444,128.4455556,Agricultural land,Asia,In-house
+China2018,S215,42.43138889,128.1169444,Forest,Asia,In-house
+China2018,S223,31.32277778,120.3511111,Wetland,Asia,In-house
+China2018,S225,31.32388889,120.3530556,Grassland,Asia,In-house
+China2018,S226,32.96777778,120.0108333,Agricultural land,Asia,In-house
+China2018,S227,31.45972222,120.2483333,Agricultural land,Asia,In-house
+China2018,S228,31.53027778,120.3316667,Agricultural land,Asia,In-house
+China2018,S233,27.16527778,115.0983333,Agricultural land,Asia,In-house
+China2018,S234,27.13416667,114.9919444,Wetland,Asia,In-house
+China2018,S237,27.08083333,115.01,Agricultural land,Asia,In-house
+China2018,S238,27.11722222,115.0511111,Agricultural land,Asia,In-house
+China2018,S239,29.71166667,115.8525,Agricultural land,Asia,In-house
+China2018,S242,29.58055556,115.9297222,Grassland,Asia,In-house
+China2018,S244,28.76805556,116.0538889,Agricultural land,Asia,In-house
+China2018,S245,28.775,116.0563889,Agricultural land,Asia,In-house
+China2018,S246,28.78777778,115.7561111,Grassland,Asia,In-house
+China2018,S248,28.75694444,115.9283333,Agricultural land,Asia,In-house
+China2018,S249,27.05861111,115.0369444,Forest,Asia,In-house
+China2018,S250,28.75138889,115.74,Forest,Asia,In-house
+China2018,S251,28.61222222,115.8344444,Wetland,Asia,In-house
+China2018,S252,41.12916667,124.1422222,Forest,Asia,In-house
+China2018,S253,41.84722222,124.9333333,Forest,Asia,In-house
+China2018,S256,41.01583333,122.405,Agricultural land,Asia,In-house
+China2018,S257,41.01583333,122.405,Wetland,Asia,In-house
+China2018,S258,41.01583333,122.405,Agricultural land,Asia,In-house
+China2018,S260,41.77111111,123.4375,Agricultural land,Asia,In-house
+China2018,S261,41.91833333,123.6008333,Forest,Asia,In-house
+China2018,S262,41.91833333,123.6008333,Wetland,Asia,In-house
+China2018,S263,41.77083333,123.4386111,Agricultural land,Asia,In-house
+China2018,S264,41.64166667,123.6147222,Agricultural land,Asia,In-house
+China2018,S265,41.77111111,123.4375,Agricultural land,Asia,In-house
+China2018,S268,37.46361111,121.3783333,Agricultural land,Asia,In-house
+China2018,S269,37.52472222,121.3841667,Forest,Asia,In-house
+China2018,S270,37.52527778,121.3861111,Grassland,Asia,In-house
+China2018,S271,36.08,120.3641667,Agricultural land,Asia,In-house
+China2018,S274,36.06444444,120.1038889,Wetland,Asia,In-house
+China2018,S276,37.65305556,112.7463889,Wetland,Asia,In-house
+China2018,S277,37.54305556,112.3141667,Forest,Asia,In-house
+China2018,S279,38.40416667,112.7461111,Forest,Asia,In-house
+China2018,S281,37.51166667,112.3322222,Agricultural land,Asia,In-house
+China2018,S283,37.42166667,112.2986111,Agricultural land,Asia,In-house
+China2018,S284,37.42166667,112.2986111,Agricultural land,Asia,In-house
+China2018,S285,39.22027778,113.3891667,Wetland,Asia,In-house
+China2018,S286,39.22416667,113.3980556,Agricultural land,Asia,In-house
+China2018,S287,38.71833333,111.8375,Grassland,Asia,In-house
+China2018,S288,34.2525,108.9830556,Agricultural land,Asia,In-house
+China2018,S290,34.41083333,108.9980556,Wetland,Asia,In-house
+China2018,S296,34.04972222,108.9091667,Agricultural land,Asia,In-house
+China2018,S297,34.41305556,109.1386111,Agricultural land,Asia,In-house
+China2018,S308,28.83166667,104.6163889,Agricultural land,Asia,In-house
+China2018,S309,29.625,103.5680556,Agricultural land,Asia,In-house
+China2018,S310,27.85194444,102.2675,Wetland,Asia,In-house
+China2018,S311,27.87388889,102.5163889,Grassland,Asia,In-house
+China2018,S312,38.98472222,117.15,Agricultural land,Asia,In-house
+China2018,S313,38.99638889,117.1397222,Wetland,Asia,In-house
+China2018,S315,38.92111111,117.5336111,Agricultural land,Asia,In-house
+China2018,S317,39.07361111,117.1497222,Forest,Asia,In-house
+China2018,S318,39.21916667,117.1230556,Agricultural land,Asia,In-house
+China2018,S321,39.04416667,117.6555556,Agricultural land,Asia,In-house
+China2018,S324,39.27666667,117.4744444,Wetland,Asia,In-house
+China2018,S325,39.54694444,117.0319444,Agricultural land,Asia,In-house
+China2018,S326,39.61111111,117.025,Agricultural land,Asia,In-house
+China2018,S328,25.58666667,100.32,Agricultural land,Asia,In-house
+China2018,S329,25.57972222,100.335,Forest,Asia,In-house
+China2018,S330,25.68666667,100.3877778,Agricultural land,Asia,In-house
+China2018,S331,25.60333333,100.2477778,Agricultural land,Asia,In-house
+China2018,S332,26.75861111,100.6683333,Agricultural land,Asia,In-house
+China2018,S333,26.77305556,100.6725,Agricultural land,Asia,In-house
+China2018,S334,26.86611111,100.1480556,Wetland,Asia,In-house
+China2018,S335,26.96027778,100.2008333,Forest,Asia,In-house
+China2018,S339,29.69777778,107.3813889,Agricultural land,Asia,In-house
+China2018,S340,29.565,107.6077778,Forest,Asia,In-house
+China2018,S342,29.5125,106.4722222,Agricultural land,Asia,In-house
+China2018,S344,29.58472222,107.6005556,Grassland,Asia,In-house
+China2018,S351,29.47055556,107.1438889,Agricultural land,Asia,In-house
+China2018,S354,29.46166667,107.11,Agricultural land,Asia,In-house
+China2018,S361,28.96666667,118.8536111,Grassland,Asia,In-house
+China2018,S363,30.66861111,120.5177778,Agricultural land,Asia,In-house
+China2018,S366,30.66305556,120.4575,Agricultural land,Asia,In-house
+China2018,S369,33.67472222,88,Grassland,Asia,In-house
+China2018,S379,47.34777778,81.284477,Grassland,Asia,In-house
+China2018,S380,43.86305556,84.030165,Grassland,Asia,In-house
+China2018,S381,43.26583333,88.150153,Grassland,Asia,In-house
+China2018,S383,47.35222222,87.843463,Grassland,Asia,In-house
+China2018,S384,28.498423,119.904275,Agricultural land,Asia,In-house
+China2018,S385,28.498423,119.904275,Agricultural land,Asia,In-house
+China2018,S386,28.498423,119.904275,Agricultural land,Asia,In-house
+China2018,S387,28.498423,119.904275,Agricultural land,Asia,In-house
+China2018,S389,28.498423,119.904275,Wetland,Asia,In-house
+China2018,S390,35.207199,114.675606,Agricultural land,Asia,In-house
+China2018,S391,29.573145,103.749543,Agricultural land,Asia,In-house
+China2018,S393,29.660384,115.952035,Agricultural land,Asia,In-house
+China2018,S394,19.16075,110.452374,Forest,Asia,In-house
+China2018,S400,39.11283,117.206366,Agricultural land,Asia,In-house
+China2018,S401,39.938258,116.414341,Forest,Asia,In-house
+China2018,S402,38.87527,115.494457,Agricultural land,Asia,In-house
+China2018,S403,47.368768,123.926294,Agricultural land,Asia,In-house
+China2018,S404,39.938258,116.414341,Wetland,Asia,In-house
+China2018,S405,39.929738,116.401988,Agricultural land,Asia,In-house
+China2018,S406,27.756161,118.023465,Agricultural land,Asia,In-house
+China2018,S408,37.757745,115.669078,Grassland,Asia,In-house
+China2018,S412,36.257226,100.485006,Grassland,Asia,In-house
+Neimenggu,S44_BDMS190062379,51.725,122.02,Forest,Asia,In-house
+Neimenggu,S41_BDMS190062376,51.725,122.02,Forest,Asia,In-house
+Neimenggu,S65_BDMS190062400,49.53792222,123.2048389,Forest,Asia,In-house
+Neimenggu,S43_BDMS190062378,51.725,122.02,Forest,Asia,In-house
+Neimenggu,S66_BDMS190062401,49.53792222,123.2048389,Forest,Asia,In-house
+Neimenggu,S45_BDMS190062380,51.725,122.02,Forest,Asia,In-house
+Neimenggu,S64_BDMS190062399,49.53792222,123.2048389,Forest,Asia,In-house
+Neimenggu,S42_BDMS190062377,51.725,122.02,Forest,Asia,In-house
+Neimenggu,S62_BDMS190062397,49.53792222,123.2048389,Forest,Asia,In-house
+Neimenggu,S63_BDMS190062398,49.53792222,123.2048389,Forest,Asia,In-house
+Neimenggu,S61_BDMS190062396,49.53792222,123.2048389,Forest,Asia,In-house
+hzbay,Cshang1_BDME190026004,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cjian4_BDME190026011,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cjian3_BDME190025999,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cjian5_BDME190026015,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cjian2_BDME190025878,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cjian1_BDME190026006,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cshang2_BDME190026008,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cshang3_BDME190025998,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,S72_BDME190601167,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z5jian_BDME190601154,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,S64_BDME190601159,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z1W_BDME190025931,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z2jian_BDME190025923,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,S61_BDME190601156,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z2W_BDME190025932,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z2xia_BDME190025880,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,S58_BDME190601153,30.46527778,122.2977778,Bare Land,Asia,In-house
+hzbay,Z2tu_BDME190025922,30.59333333,121.0922222,Grassland,Asia,In-house
+hzbay,S60_BDME190601155,30.46527778,122.2977778,Bare Land,Asia,In-house
+hzbay,Z3xia_BDME190025994,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,S67_BDME190601162,30.46527778,122.2977778,Bare Land,Asia,In-house
+hzbay,Z4tu_BDME190025879,30.59333333,121.0922222,Grassland,Asia,In-house
+hzbay,S69_BDME190601164,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z5tu_BDME190025995,30.59333333,121.0922222,Grassland,Asia,In-house
+hzbay,Z5xia_BDME190025996,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z3jian_BDME190025993,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z5W_BDME190025934,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Cxia1_BDME190026007,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,S75_BDME190601170,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z3tu_BDME190025992,30.59333333,121.0922222,Grassland,Asia,In-house
+hzbay,S76_BDME190601171,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,S73_BDME190601168,30.46527778,122.2977778,Wetland,Asia,In-house
+hzbay,Z1xia_BDME190025991,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z1jian_BDME190025990,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z4jian_BDME190026001,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Z4xia_BDME190026002,30.59333333,121.0922222,Wetland,Asia,In-house
+hzbay,Ctu4_BDME190026009,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Ctu3_BDME190025997,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Ctu1_BDME190026003,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cxia5_BDME190026016,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cxia3_BDME190026000,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Ctu5_BDME190026013,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cxia4_BDME190026012,30.39472222,121.2741667,Wetland,Asia,In-house
+hzbay,Cshang4_BDME190026010,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cshang5_BDME190601163,30.39472222,121.2741667,Bare Land,Asia,In-house
+hzbay,Cxia2_BDME190025877,30.39472222,121.2741667,Wetland,Asia,In-house
+SRA,SRR5262251,9.1086,79.8436,Forest,Asia,Public
+SRA,SRR6942528,9.1086,79.8436,Forest,Asia,Public
+SRA,SRR8554900,30.68,91.1,Bare Land,Asia,Public
+Europe,BL1_EDME210000091,50.8624,4.7207,Forest,Europe,Public
+Europe,BL2_EDME210000092,50.8627,4.7232,Forest,Europe,Public
+Europe,BL3_EDME210000093,50.8667,4.7143,Grassland,Europe,Public
+Europe,D1_EDME210000097,53.4672,-2.2342,Agricultural land,Europe,Public
+Europe,D2_EDME210000098,53.4669,-2.2357,Agricultural land,Europe,Public
+Europe,D3_EDME210000099,53.4664,-2.2343,Agricultural land,Europe,Public
+Europe,D4_EDME210000100,53.4675,-2.2347,Agricultural land,Europe,Public
+Europe,D5_EDME210000101,53.4673,-2.2327,Agricultural land,Europe,Public
+Europe,D6_EDME210000102,53.4676,-2.235,Agricultural land,Europe,Public
+Europe,ED1_EDME210000088,55.9438,-3.2197,Agricultural land,Europe,Public
+Europe,ED2_EDME210000089,55.9438,-3.2197,Agricultural land,Europe,Public
+Europe,ED3_EDME210000090,55.9438,-3.2197,Agricultural land,Europe,Public
+Europe,GM1_EDME210000094,52.4642,13.2664,Forest,Europe,Public
+Europe,GM2_EDME210000095,52.47,13.2642,Wetland,Europe,Public
+Europe,GM3_EDME210000096,52.4569,13.3022,Grassland,Europe,Public
+SRA,SRR8847062,18.321,-65.8172,Forest,North America,Public
+SRA,SRR8847088,18.321,-65.8172,Forest,North America,Public
+SRA,SRR8847350,18.321,-65.8172,Forest,North America,Public
+Africa,ERR4661005,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661003,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661010,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661004,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661007,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4660997,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661006,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661000,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661014,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661001,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661002,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661011,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661009,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661015,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661008,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661012,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4661013,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4660998,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4660999,-3.076,37.353,Forest,Africa,Public
+Africa,ERR4660996,-3.076,37.353,Forest,Africa,Public
+zpcx,s17_FDMS190655345,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s26_FDMS190655350,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s32_FDMS190655354,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s2_FDMS190655336,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s28_FDMS190655352,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s3_FDMS190655337,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s27_FDMS190655351,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s8_FDMS190655340,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s11_FDMS190655341,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s31_FDMS190655353,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s23_FDMS190655349,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s12_FDMS190655342,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s33_FDMS190655355,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s18_FDMS190655346,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s21_FDMS190655347,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s1_FDMS190655335,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s6_FDMS190655338,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s13_FDMS190655343,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s22_FDMS190655348,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s7_FDMS190655339,30.18194444,121.3538889,Agricultural land,Asia,In-house
+zpcx,s16_FDMS190655344,30.18194444,121.3538889,Agricultural land,Asia,In-house
+rice50,rice103,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice1,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice23,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice96,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice97,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice98,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice99,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice105,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice100,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice123,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice124,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice125,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice5,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice102,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice4,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice101,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice27,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice3,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice26,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice2,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice25,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice139,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice140,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice136,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice138,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice137,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice134,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice135,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice133,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice18,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice131,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice132,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice17,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice130,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice129,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice128,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice127,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice126,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice43,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice41,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice42,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice40,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice21,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice39,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice19,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice20,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice24,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice121,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice122,29.15555556,119.3883333,Agricultural land,Asia,In-house
+rice50,rice104,29.15555556,119.3883333,Agricultural land,Asia,In-house
+SRA,SRR5195126,-21.35,55.57,Agricultural land,Africa,Public
+SRA,SRR5195127,-21.34,55.56,Agricultural land,Africa,Public
+SRA,SRR5195129,-21.2,55.53,Forest,Africa,Public
+SRA,SRR5633581,30.4,91.05,Grassland,Asia,Public
+SRA,SRR5633591,30.3,91.05,Grassland,Asia,Public
+SRA,SRR5633600,30.5,91.05,Grassland,Asia,Public
+SRA,SRR5579862,40.7999,-76.3402,Shrubland,North America,Public
+SRA,SRR5512139,24.47039,101.24619,Agricultural land,Asia,Public
+SRA,SRR5512138,23.05222,101.03506,Agricultural land,Asia,Public
+SRA,SRR5512137,23.21189,102.38253,Agricultural land,Asia,Public
+SRA,SRR5512136,23.1295,102.74125,Agricultural land,Asia,Public
+SRA,SRR5512145,29.95,113.8225,Agricultural land,Asia,Public
+SRA,SRR5512141,45.28139,131.16583,Agricultural land,Asia,Public
+SRA,SRR5512140,48.04444,133.46556,Agricultural land,Asia,Public
+SRA,SRR5512133,46.74472,131.69722,Agricultural land,Asia,Public
+SRA,SRR5512132,46.40667,130.2125,Agricultural land,Asia,Public
+SRA,SRR5272184,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272069,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272126,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272127,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272128,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272129,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272154,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272155,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272156,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272157,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272159,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272161,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272166,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272167,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272168,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5272169,43.3,-89.38,Agricultural land,North America,Public
+SRA,SRR5207564,45.54,-73.72,Forest,North America,Public
+SRA,SRR5207565,45.54,-73.72,Forest,North America,Public
+SRA,SRR5127900,45.41,126.45,Agricultural land,Asia,Public
+SRA,SRR4249913,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249914,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249915,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249916,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249917,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249918,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249919,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249920,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249921,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249922,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249923,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249924,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249925,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249926,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249927,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249928,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249929,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4249930,45.68,-72,Agricultural land,North America,Public
+SRA,SRR4030067,39.55,-107.97,Forest,North America,Public
+SRA,SRR4030065,39.55,-107.97,Forest,North America,Public
+SRA,SRR4026204,43.303333,-89.3325,Agricultural land,North America,Public
+SRA,SRR4027096,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027097,39.214012,-96.585283,Agricultural land,North America,Public
+SRA,SRR4027109,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027117,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027118,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027119,39.211666,-96.594768,Agricultural land,North America,Public
+SRA,SRR4027589,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027590,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027591,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027593,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027594,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027595,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027596,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027609,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027611,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027612,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027613,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027614,39.0042816,-77.1012173,Agricultural land,North America,Public
+SRA,SRR4027935,64.7,-148.3,Bareland,North America,Public
+SRA,SRR4027937,64.7,-148.3,Bareland,North America,Public
+SRA,SRR3988820,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988822,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988821,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988823,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988824,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988825,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988826,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988827,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988828,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988829,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988830,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988831,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988832,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988833,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988834,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988835,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988836,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988837,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988838,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988839,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988841,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988840,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988842,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988843,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988844,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988845,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988846,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988847,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988848,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3989306,39.53,-107.78,Forest,North America,Public
+SRA,SRR3989337,39.53,-107.78,Forest,North America,Public
+SRA,SRR3989455,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989456,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989457,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989458,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989459,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989462,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989463,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989464,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989465,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989466,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989467,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989468,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989469,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989472,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989473,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989476,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989478,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989479,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989480,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989481,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989483,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989484,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989485,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989486,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989488,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989494,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989496,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989497,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989498,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989499,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989502,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989503,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989504,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989505,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989510,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989511,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989512,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989513,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989517,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989518,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989519,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989520,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989524,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989525,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989526,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989527,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989544,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989545,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989546,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989547,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989551,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989552,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989553,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989554,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989557,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989558,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989559,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989562,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989563,43.3,-89.38,Forest,North America,Public
+SRA,SRR3989564,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989565,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989566,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989567,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989568,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989569,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989570,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989571,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989572,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989574,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989575,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989577,42.4,-85.37,Forest,North America,Public
+SRA,SRR3989592,43.56,-89.32,Forest,North America,Public
+SRA,SRR3989596,43.56,-89.32,Forest,North America,Public
+SRA,SRR3989600,43.43,-89.41,Forest,North America,Public
+SRA,SRR3989607,43.43,-89.41,Forest,North America,Public
+SRA,SRR3989618,43.42,-89.4,Forest,North America,Public
+SRA,SRR3989619,43.42,-89.4,Forest,North America,Public
+SRA,SRR3989628,43.42,-89.4,Forest,North America,Public
+SRA,SRR3989634,43.42,-89.33,Forest,North America,Public
+SRA,SRR3989701,43.42,-89.33,Forest,North America,Public
+SRA,SRR3988621,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3988622,43.2958,-89.3799,Forest,North America,Public
+SRA,SRR3970040,39.53,-107.78,Forest,North America,Public
+SRA,SRR3712179,-19.0313,15.5486,Grassland,Africa,Public
+SRA,SRR3712206,-19.0371,15.5536,Grassland,Africa,Public
+SRA,SRR3712207,-19.0371,15.5536,Grassland,Africa,Public
+SRA,SRR3712209,-19.0371,15.5536,Grassland,Africa,Public
+SRA,SRR3712211,-19.0371,15.5536,Grassland,Africa,Public
+SRA,SRR3402048,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3402046,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3402044,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3402036,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3401994,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3401991,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3401989,45.41,-73.25,Wetland,North America,Public
+SRA,SRR3401986,45.41,-73.25,Wetland,North America,Public
+SRA,SRR2962480,23.39,120.48,Forest,Asia,Public
+SRA,SRR2901746,48.4244,-123.3881,Agricultural land,North America,Public
+SRA,SRR2902415,48.4244,-123.3881,Agricultural land,North America,Public
+SRA,SRR2903329,48.4244,-123.3881,Agricultural land,North America,Public
+SRA,SRR2070865,21.088395,105.727361,Agricultural land,Asia,Public
+SRA,SRR2071948,21.08839,105.727278,Agricultural land,Asia,Public
+SRA,SRR2071949,21.088395,105.727361,Agricultural land,Asia,Public
+SRA,SRR2070858,21.088732,105.733872,Agricultural land,Asia,Public
+SRA,SRR1157614,47.5062,-93.45426667,Wetland,North America,Public
